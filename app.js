@@ -32,6 +32,7 @@ function deleteTask(e){
     }
 }
 
+
 function deleteAllTasks(e){
     //taskList.innerHTML = ''
     while (taskList.firstChild){
